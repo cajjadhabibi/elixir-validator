@@ -1,4 +1,4 @@
-# elixir-validator
+
 # elixir-validator
 Here's a simplified and GitHub-ready version of the Elixir Testnet v3 Validator Setup Guide:
 # Elixir Testnet v3 Validator Setup Guide
